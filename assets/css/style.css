@@ -4,7 +4,7 @@
   -moz-osx-font-smoothing: grayscale; }
 
 body {
-  font-family: 'Nunito Sans', sans-serif; }
+  font-family: 'Noto Sans', sans-serif; }
 
 @font-face {
   font-family: 'Maisonneue demi';
@@ -31,7 +31,7 @@ body {
   font-style: normal; }
 
 body {
-  font-family: 'Maisonneue book',sans-serif;
+  font-family: 'Noto Sans', sans-serif;;
   color: #1d1d1e;
   line-height: 21px; }
 
@@ -44,10 +44,10 @@ h6 {
   text-transform: uppercase; }
 
 h3, h4, h6 {
-  font-family: 'Maisonneue demi',sans-serif; }
+  font-family: 'Noto Sans', sans-serif; }
 
 h2 {
-  font-family: 'Maisonneue Light',sans-serif;
+  font-family: 'Noto Sans', sans-serif;;
   font-size: 36px;
   line-height: 43px;
   font-weight: 300; }
@@ -69,7 +69,7 @@ html {
   padding-top: 30px;
   margin-top: 3%; }
   .download h4 {
-    font-family: Maisonneue Light,sans-serif;
+    font-family: 'Noto Sans', sans-serif;;
     font-size: 16px;
     font-weight: 300; }
 
@@ -211,7 +211,7 @@ html {
     border-radius: 5px;
     background-image: radial-gradient(circle farthest-corner at 97% -22%, #7761f5, #7761f5 52%, #1f24ee);
     box-shadow: 0 0 12px 0 rgba(43, 64, 255, 0.4);
-    font-family: Maisonneue demi,sans-serif;
+    font-family: 'Noto Sans', sans-serif;
     font-size: 16px;
     text-align: center;
     display: inline-block;
@@ -244,7 +244,7 @@ html {
   border-radius: 5px;
   background-color: transparent;
   transition: border .3s ease,background-color .3s ease;
-  font-family: 'Maisonneue mono',sans-serif;
+  font-family: 'Noto Sans', sans-serif;
   color: #000;
   font-size: 13px;
   line-height: 1em; }
